@@ -1,3 +1,1 @@
-hello
-comment
-author
+hello master
